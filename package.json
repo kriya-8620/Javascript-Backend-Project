@@ -1,0 +1,18 @@
+{
+  "name": "javascript_backend_api",
+  "version": "1.0.0",
+  "description": "Javascript Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Mongoose"
+  ],
+  "author": "Krishna Chand Koley",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
